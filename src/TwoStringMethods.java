@@ -1,6 +1,6 @@
 public class TwoStringMethods {
     /**
-     *
+     * if the String contains an instance of "abc" without a period before it
      * @param word
      * @return if the String contains an instance of "abc" without a period before it
      */
@@ -20,7 +20,7 @@ public class TwoStringMethods {
     }
 
     /**
-     *
+     *  a string that alternates between the characters of the two arguments
      * @param first
      * @param second
      * @return a string that alternates between the characters of the two arguments
